@@ -1,5 +1,6 @@
 ## Hi I´m Luis Duran 👋
 
+I´m a recent graduate in Computer Systems Engineering from Instituto Tecnologico de Tehuacan.
 <!--
 **THB-L85/THB-L85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
