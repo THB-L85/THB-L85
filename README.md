@@ -1,7 +1,11 @@
-## Hi I´m Luis Duran 👋
+## Hi I´m Luis Duran 👨🏽‍💻
 
-I´m a recent graduate in Computer Systems Engineering from Instituto Tecnologico de Tehuacan.
-<!--
+I´m a recent graduate in Computer Systems Engineering from Instituto Tecnológico de Tehuacán with practical experience in software development gained from working at Barcostudio Agencia Tecnológica.
+
+## About me 
+
+I live in Mexico City and I'm 24 years old. I'm passionate about learning new technologies to complement my professional career. 👨🏽‍💻 One of my many goals is continuously improve my skills and meaningful contributions to the field of software development.
+<!-- 
 **THB-L85/THB-L85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
