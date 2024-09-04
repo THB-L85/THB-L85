@@ -8,9 +8,11 @@ I live in Mexico City and I'm 24 years old. I'm passionate about learning new te
 
 ## Skills
 
-- Programming lenguages: PHP, Java, C#, JavaScript.
-- Frameworks: Laravel, Boostrap, .NET.
-- Tools and Technologies: Git, GitHub, Postman, Xampp, Balsamiq, Figma, AdobeXD, Miro, Clickup.
+- **Programming Languages:** PHP, Java, C#, JavaScript, Dart.
+- **Web Development:** HTML5, CSS, Bootstrap.
+- **Frameworks:** Laravel, .NET, Flutter.
+- **Databases:** SQL Server and MySQL.
+- **Tools and Technologies:** Git, GitHub, Postman, XAMPP, Balsamiq, Figma, Adobe XD, Miro, ClickUp.
 <!-- 
 **THB-L85/THB-L85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
