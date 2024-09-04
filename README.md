@@ -1,6 +1,10 @@
-## Hi I´m Luis Duran 👨🏽‍💻
+<div style="text-align:center;">
+  <h1>Hi, I’m Luis Duran 👨🏽‍💻</h1>
+</div>
 
-I´m a recent graduate in Computer Systems Engineering from Instituto Tecnológico de Tehuacán with practical experience in software development gained from working at Barcostudio Agencia Tecnológica.
+<!--I´m a recent graduate in Computer Systems Engineering from Instituto Tecnológico de Tehuacán with practical experience in software development gained from working at Barcostudio Agencia Tecnológica. -->
+🎓 **Recent graduate in Computer Systems Engineering**  
+💻 **Software Developer at Barcostudio Agencia Tecnológica**
 
 ## About me 
 
