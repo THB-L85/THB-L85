@@ -31,7 +31,7 @@ I live in Mexico City and I'm 24 years old. I'm passionate about learning new te
   <a href="www.linkedin.com/in/luis-duran-r">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:tu.email@gmail.com">
+  <a href="luis.dr85a@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
