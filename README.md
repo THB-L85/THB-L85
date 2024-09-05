@@ -18,10 +18,11 @@ I live in Mexico City and I'm 24 years old. I'm passionate about learning new te
 - **Frameworks:** Laravel, .NET, Flutter.
 - **Databases:** SQL Server and MySQL.
 - **Tools and Technologies:** Git, GitHub, Postman, XAMPP, Balsamiq, Figma, Adobe XD, Miro, ClickUp.
+<br>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,linux,mysql,postman,vscode,bootstrap,cs,dart,dotnet,flutter,laravel,php,visualstudio,vscode,xd&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,php,laravel,java,js,cs,dotnet,dart,flutter,mysql,postman,vscode,visualstudio,xd,figma,linux,discord&perline=11" />
   </a>
 </p>
 <!--
