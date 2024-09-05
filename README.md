@@ -18,7 +18,7 @@ I live in Mexico City and I'm 24 years old. I'm passionate about learning new te
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,php,laravel,java,js,cs,dotnet,dart,flutter,mysql,postman,vscode,visualstudio,xd,figma,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,php,laravel,java,js,cs,dotnet,dart,flutter,mysql,postman,vscode,visualstudio,xd,figma,linux,linkedin,gmail&perline=10" />
   </a>
 </p>
 
@@ -28,12 +28,16 @@ I live in Mexico City and I'm 24 years old. I'm passionate about learning new te
 - 💼 LinkedIn: linkedin.com/in/luis-duran-r
 
 <p align="center">
-  <a href="www.google.com">
+  <a href="www.linkedin.com/in/luis-duran-r">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:tu.email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
+<!--
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-duran-r/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
+</p> -->
 
