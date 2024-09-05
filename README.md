@@ -28,11 +28,8 @@ I live in Mexico City and I'm 24 years old. I'm passionate about learning new te
 - 💼 LinkedIn: linkedin.com/in/luis-duran-r
 
 <p align="center">
-  <a href="google.com">
+  <a href="www.google.com">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
