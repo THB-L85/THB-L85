@@ -18,7 +18,7 @@ I live in Mexico City and I'm 24 years old. I'm passionate about learning new te
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,php,laravel,java,js,cs,dotnet,dart,flutter,mysql,postman,vscode,visualstudio,xd,figma,linux,linkedin,gmail&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,php,laravel,java,js,cs,dotnet,dart,flutter,mysql,postman,vscode,visualstudio,xd,figma,linux&perline=10" />
   </a>
 </p>
 
