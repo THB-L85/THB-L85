@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I’m Luis Duran 👨🏽‍💻 <br/></h2> 
 
 <h4 align="center">Graduate in Computer Systems Engineering 🎓 <br/></h4>
-<h4 align="center">Software Developer at Barcostudio Agencia Tecnológica 💻 <br/></h4>
+<h4 align="center">Web Development at Zapata 💻 <br/></h4>
 
 <h2 align="center"> About me <br/></h2> 
 
