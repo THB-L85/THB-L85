@@ -5,12 +5,12 @@
 
 <h2 align="center"> About me <br/></h2> 
 
-I live in Mexico City and I'm 24 years old. I'm passionate about learning new technologies to complement my professional career. One of my many goals is to continuously improve my skills and make meaningful contributions to the field of software development. I believe that teamwork and being open to learn from others are crucial, as well as sharing the knowledge I've gained.
+I live in Mexico City and I'm 25 years old. I'm passionate about learning new technologies to complement my professional career. One of my many goals is to continuously improve my skills and make meaningful contributions to the field of software development. I believe that teamwork and being open to learn from others are crucial, as well as sharing the knowledge I've gained.
 
 <h2 align="center"> Skills <br/></h2> 
 
 - **Programming Languages:** PHP, Java, C#, JavaScript, Dart.
-- **Web Development:** HTML5, CSS, Bootstrap.
+- **Web Development:** HTML5, CSS, Bootstrap, Tailwind.
 - **Frameworks:** Laravel, .NET, Flutter.
 - **Databases:** SQL Server and MySQL.
 - **Tools and Technologies:** Git, GitHub, Postman, XAMPP, Balsamiq, Figma, Adobe XD, Miro, ClickUp.
